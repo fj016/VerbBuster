@@ -1,6 +1,6 @@
 # VerbBuster
 
-A badly written, multi-threaded, python script to test endpoints por exotic http methods.
+A badly written, multi-threaded, python script to test endpoints for exotic http methods.
 ## Install
 
 To install :
